@@ -119,3 +119,18 @@ Execute the program
 </html>
 ```
 # OUPUT
+
+serveroutput:
+![2023-04-19 (2)](https://user-images.githubusercontent.com/119417735/232965408-e58d2e08-13a6-4aad-90a8-d4c5e9b6484e.png)
+
+clientoutput:
+![2023-04-19](https://user-images.githubusercontent.com/119417735/232965577-a8466339-6bdb-4cff-b9b0-d156f047b136.png)
+
+htmlvalidator
+![image](https://user-images.githubusercontent.com/119417735/232965762-b6feb07b-1769-42be-b821-8a443413546a.png)
+
+RESULT:
+
+Thus the program executed successfully.
+
+
